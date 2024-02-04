@@ -64,6 +64,7 @@ namespace AirTikets
                     default:
                         Console.WriteLine("такой команды нет");
                         Console.WriteLine("Попробуйте еще раз");
+                        Console.WriteLine("Еще одна попытка ");
                         break;
                 }
 
